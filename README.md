@@ -2,6 +2,15 @@
 
 A full-stack analytics application with FastAPI backend and Next.js frontend for CSV data processing and intelligent querying.
 
+## 📚 Additional Resources
+
+### Google Colab Notebooks
+- **[Analytics Notebook 1](https://colab.research.google.com/drive/14__QVUJ4U4V0Q9brqQ9HcONf9gBxB2qL?usp=sharing)** - Data processing and analysis workflows
+- **[Analytics Notebook 2](https://colab.research.google.com/drive/1rKSrKG_ZOGOD-OGzS-9N1TqUhmAsFeUc?usp=sharing)** - Advanced analytics and visualization
+
+### Product Demo
+- **[📹 Product Demo Video](https://drive.google.com/drive/folders/1bLQFI_WP-CTLlJuGljIox8eaXwjK0psh?usp=drive_link)** - Complete walkthrough of the analytics application features
+
 ## 🚀 Quick Start
 
 ### macOS/Linux
@@ -91,12 +100,3 @@ The script will automatically clean up all running processes and provide confirm
 - **Backend**: Python 3.8+, FastAPI, uvicorn
 - **Frontend**: Node.js 18+, Next.js 14+, React 18+
 - **System**: macOS, Linux, or Windows
-
-## 📚 Additional Resources
-
-### Google Colab Notebooks
-- **[Analytics Notebook 1](https://colab.research.google.com/drive/14__QVUJ4U4V0Q9brqQ9HcONf9gBxB2qL?usp=sharing)** - Data processing and analysis workflows
-- **[Analytics Notebook 2](https://colab.research.google.com/drive/1rKSrKG_ZOGOD-OGzS-9N1TqUhmAsFeUc?usp=sharing)** - Advanced analytics and visualization
-
-### Product Demo
-- **[📹 Product Demo Video](https://drive.google.com/drive/folders/1bLQFI_WP-CTLlJuGljIox8eaXwjK0psh?usp=drive_link)** - Complete walkthrough of the analytics application features
